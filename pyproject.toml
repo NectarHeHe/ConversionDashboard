@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "conversion-dashboard"
+name = "hexlet-code"
 version = "0.1.0"
 description = "python data analytics"
 authors = ["Nikita Kistankin <necorectno@mail.ru>"]
